@@ -17,7 +17,7 @@ Use the Linux in your CSE4001 container. If you are using macOS, you may use the
 ### **Steps to Complete the Assignment**
 
 1. **Accept the GitHub Classroom Invitation**
-    [GitHub Link](https://classroom.github.com/a/FZh4BrQG)
+    [GitHub Link](https://classroom.github.com/a/qlo9QIMS)
 2. **Set up your Repository**
    - Clone the assignment repository.
 3. **Study the Reference Materials**
