@@ -39,7 +39,6 @@ Use the Linux in your CSE4001 container. If you are using macOS, you may use the
    - Make sure all files, answers, and screenshots are uploaded and rendered properly.
 
 ---
-
 ### Checklist 
 
 - [ ] README has sections Q1–Q7 with answers in `README.md`
