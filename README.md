@@ -92,7 +92,7 @@ Use the Linux in your CSE4001 container. If you are using macOS, you may use the
 // Add your code or answer here. You can also add screenshots showing your program's execution.  
 ```
 
-7. Write a program that creates a child process, and then in the child closes standard output (`STDOUT FILENO`). What happens if the child calls `printf()` to print some output after closing the descriptor?
+7. Write a program that creates a child process, and then in the child closes standard output (`STDOUT_FILENO`). What happens if the child calls `printf()` to print some output after closing the descriptor?
 
 ```cpp
 // Add your code or answer here. You can also add screenshots showing your program's execution.  
